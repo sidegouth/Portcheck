@@ -1,3 +1,3 @@
 # PortCheck.sh
 ----------
-Apenas uma coisa básica em Bash Script :)
+O intuito desse script é apenas para ver que estou me aprofundando nessa Linguagem de programação e que eu resolva minhas tarefas :) !
